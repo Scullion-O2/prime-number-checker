@@ -9,8 +9,8 @@ A small application that will take a user's input and check to see if it is a pr
   - Progress display - Optional
 
 ## Progress Display
-Beginning at `line 68` to `line 80`, user's should be able to see a piece of code commented out.
-Removing the multi-line comments (`/**` & `**/`) and you should see a percentage in the command window which will notify you of the app's progress.
+Beginning at `line 68` to `line 80`, user's should be able to see a piece of code commented out.  
+Removing the multi-line comments (`/**` & `**/`) and you should see a percentage in the command window which will notify you of the app's progress.  
 As the comment says, using this progress percentage will significantly slow down the speed of the application.
 
 ## Additional Info
